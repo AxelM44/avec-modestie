@@ -1,52 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://axelm44.github.io/Avec-Modestie/</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://axelm44.github.io/Avec-Modestie/le-blog/</loc>
-    <lastmod>2026-06-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://axelm44.github.io/Avec-Modestie/presentation/</loc>
-    <lastmod>2026-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://axelm44.github.io/Avec-Modestie/contact-et-credits/</loc>
-    <lastmod>2026-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-
-  <!-- Articles (sans /feed/ ni /index.html) -->
-  <url>
-    <loc>https://axelm44.github.io/Avec-Modestie/2026/03/03/cdc-du-pain-et-des-rose-dandrea-datri/</loc>
-    <lastmod>2026-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://axelm44.github.io/Avec-Modestie/2026/03/13/affiche-dedicace/</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://axelm44.github.io/Avec-Modestie/2026/04/23/accueil-et-relation-client-mootboard/</loc>
-    <lastmod>2026-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-</urlset><?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
     <loc>https://axelm44.github.io/avec-modestie/2026/03/03/cdc-du-pain-et-des-rose-dandrea-datri/feed/index.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
