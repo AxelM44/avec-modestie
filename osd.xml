@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>Avec Modestie</ShortName>
+	<Description>Search Avec Modestie - Publications de projets d&#039;études et critiques littéraire Avec Modestie.</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://avecmodestie.wordpress.com/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://avecmodestie.wordpress.com/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://avecmodestie.wordpress.com/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://avecmodestie.wordpress.com/osd.xml" />
+	<LongName>Avec Modestie</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://avecmodestie.wordpress.com/wp-content/uploads/2026/04/am-logo.png?w=16</Image>
+	<Image height="64" width="64" type="image/png">https://avecmodestie.wordpress.com/wp-content/uploads/2026/04/am-logo.png?w=64</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>coup-de-coeur-stage-1ere-annee nepthys-zwer coup-de-coeur andrea-datri esperanto dedicace alex-jordanov ke-clero mootboard les-nuits-de-la-lecture</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>fr-FR</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://avecmodestie.wordpress.com</moz:SearchForm>
+</OpenSearchDescription>

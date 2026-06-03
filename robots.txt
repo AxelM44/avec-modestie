@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://axelm44.github.io/Avec-Modestie/sitemap.xml
